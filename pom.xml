@@ -35,7 +35,7 @@
 						<muleVersion>${muleVersion}</muleVersion>
 						<username>${username}</username>
 						<password>${password}</password>
-						<applicationName>hello-world-app-dev</applicationName>
+						<applicationName>${applicationName}</applicationName>
 						<environment>${environment}</environment>
 						<businessGroup>${businessGroup}</businessGroup>
 						<workerType>${workerType}</workerType>
